@@ -1,2 +1,2 @@
 # Create your costume_stores migration here
-class CostumeStore 
+class CostumeStore
